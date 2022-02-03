@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="index.js">
+    </script>
+    <title></title>
+  </head>
+  <body>
+  <div class="Student"></div><br>
+  <div class="Year"></div><br>
+  <div class="Day"></div><br>
+  <div class="Date"></div><br>
+  <div class="Month"></div><br>
+  <div class="Time"></div>
+<br>
+  </body>
+</html>
